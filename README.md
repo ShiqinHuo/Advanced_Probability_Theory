@@ -1,4 +1,4 @@
-# Probability_Theory
+# Advanced Probability Theory & Modelling
 
 ### Aim
 This repo is created to opensource some electronic books involving **Advanced Probability Theory & Modelling**</br>
